@@ -1,2 +1,2 @@
 # total-restaurant
-jumlah resto dalam kurun waktu tertentu (Resto yang bergabung dengan Gojek)
+jumlah resto yang mendapat pesanan dalam kurun waktu tertentu
